@@ -23,6 +23,7 @@ Install rust, and use the nightly toolchain. See http://rust-lang.org/ for detai
 ```
 curl https://sh.rustup.rs -sSf | sh
 rustup default nightly
+rustup override set nightly-2021-01-07
 ```
 
 ## Compiling
